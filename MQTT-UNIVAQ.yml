@@ -1,5 +1,5 @@
 name: "MQTT-UNIVAQ"
-manufacturer: "MLS"
+manufacturer: "Maria Luisa Scapati"
 model: "MQTT-DEVICE-UNIVAQ"
 description: "Test device profile"
 labels:
