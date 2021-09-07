@@ -64,7 +64,7 @@ File = "./device-mqtt.log"
   [DeviceList.Protocols]
     [DeviceList.Protocols.mqtt]
        Schema = "tcp"
-       Host = "dell3003"
+       Host = "localhost"
        Port = "1883"
        ClientId = "SAFEClient"
        User = ""
@@ -78,7 +78,7 @@ File = "./device-mqtt.log"
 # Driver configs
 [Driver]
 IncomingSchema = "tcp"
-IncomingHost = "dell3003"
+IncomingHost = "localhost"
 IncomingPort = "1883"
 IncomingUser = ""
 IncomingPassword = ""
