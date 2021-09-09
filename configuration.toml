@@ -3,7 +3,7 @@ LogLevel = 'DEBUG'
 
 [Service]
 Host = "edgex-device-mqtt"
-Port = 49982
+Port = 49983
 ConnectRetries = 3
 Labels = []
 OpenMsg = "device mqtt started"
