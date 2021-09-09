@@ -78,7 +78,7 @@ File = "./device-mqtt.log"
 # Driver configs
 [Driver]
 IncomingSchema = "tcp"
-IncomingHost = "l0.0.2.15"
+IncomingHost = "10.0.2.15"
 IncomingPort = "1883"
 IncomingUser = ""
 IncomingPassword = ""
